@@ -18,7 +18,7 @@
 
 
 ### :woman_technologist: About Me :
-- 🔭 I’m currently working as a Freelancer Frontend Developer
+- 🔭 I’m currently working as a Freelancer Web/Mobile Developer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Web Devs
 - 📫 How to reach me: etaloot@protonmail.com
@@ -34,6 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://banner2.cleanpng.com/20180820/csy/kisspng-react-native-native-apps-parallel-fr-android-un-react-native-5b7a5c48d78603.7634975615347456728828.jpg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
