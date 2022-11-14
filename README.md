@@ -19,10 +19,10 @@
 
 ### :woman_technologist: About Me :
 - 🔭 I’m currently working as a Freelancer Web/Mobile Developer
-- 🌱 I’m currently learning everything 🤣, because i want to be the best!
+- 🌱 I’m currently learning everything related to web/mobile dev 🤣
 - 👯 I’m looking to collaborate with other Web Devs
 - 📫 How to reach me: etaloot@protonmail.com
-- ⚡ In my free time, i go to the gym and travel
+- ⚡ In my free time, i go to the gym, travel and invest in Tech.
 
 ---
 
