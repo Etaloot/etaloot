@@ -1,6 +1,6 @@
 <h1 align="center">
  Hi there, I'm Gabriel
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://giphy.com/gifs/matrix-cinematography-sk6yL9EGVeAcE" width="30px"/>
 </h1>
 
 <div align="center">
