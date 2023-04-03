@@ -1,10 +1,10 @@
 <h1 align="center">
  Hi there, I'm Etaloot
-  <img src="https://giphy.com/gifs/matrix-cinematography-sk6yL9EGVeAcE" width="30px"/>
+<!--   <img src="https://giphy.com/gifs/matrix-cinematography-sk6yL9EGVeAcE" width="30px"/> -->
 </h1>
 
 <div align="center">
-    <img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" width="600" height="300"/>
+    <img src="https://images.pexels.com/photos/4439901/pexels-photo-4439901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="600" height="300"/>
 </div>
 
 
