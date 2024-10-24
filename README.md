@@ -20,7 +20,6 @@
 ### About Me :
 - 🔭 I’m currently working as a Freelancer Web/Mobile Developer
 - 👯 I’m looking to collaborate with other Web Devs and find new projects.
-- 📫 How to reach me: etaloot@protonmail.com
 - ⚡ In my free time, i go to the gym, travel and invest in Tech.
 
 ---
