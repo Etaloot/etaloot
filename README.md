@@ -2,14 +2,7 @@
 
 # Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-
-
 </div>
-
-<div align="center">
-<img src="https://images.pexels.com/photos/4439901/pexels-photo-4439901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="650" height="320" style="border-radius:10px;" />
-</div>
-
 <br>
 
 <div align="center">
