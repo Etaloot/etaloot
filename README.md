@@ -2,7 +2,7 @@
 
 # Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Full+Stack+Web+%26+Mobile+Developer;100%2B+Projects+Built+%7C+3%2B+Years+Experience;React+%7C+Laravel+%7C+Mobile+Apps;Building+Modern+Digital+Experiences)](https://git.io/typing-svg)
+
 
 </div>
 
