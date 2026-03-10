@@ -1,19 +1,3 @@
-<div align="center">
-
-# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-
-</div>
-<br>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=etaloot&style=for-the-badge&color=6C63FF)
-[![GitHub followers](https://img.shields.io/github/followers/etaloot?style=for-the-badge&color=6C63FF)](https://github.com/etaloot)
-
-</div>
-
----
-
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> About Me
 
 ```javascript
